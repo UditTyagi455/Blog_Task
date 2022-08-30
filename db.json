@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "img": "https://salesblink.io/blog/wp-content/uploads/2022/08/13-best-sales-forecasting-tools-that-predict-revenue-salesblink.webp",
+      "title": "13 Best Sales Forecasting Tools That Predict Revenue",
+      "content":" Cupidatat elit cupidatat nisi officia enim aute. Deserunt culpa dolore sunt incididunt aliquip labore excepteur elit et cupidatat nulla voluptate cillum ea. Culpa ex ullamco incididunt proident dolor minim velit occaecat irure cupidatat eiusmod. Aliquip enim consectetur amet elit eu anim et amet ut sit quis magna. Tempor do mollit incididunt ex. Cillum minim ipsum culpa cillum qui tempor consectetur eiusmod qui non minim ut do. Lorem fugiat ipsum ad voluptate ipsum consequat commodo pariatur ipsum. Irure est consequat velit nisi. Ad aliquip eiusmod enim tempor non duis officia veniam et sit elit laborum. Adipisicing ipsum aute minim non mollit elit pariatur eiusmod pariatur consequat nulla ipsum in. Cillum irure ad duis proident elit cupidatat fugiat est consectetur. Et cillum proident cupidatat et id ullamco mollit. Eu quis ipsum nostrud commodo tempor dolor officia est officia eiusmod do. Esse ut anim ipsum ad mollit labore sint non consequat cillum esse eiusmod est eiusmod. "
+    },
+    {
+      "id": 2,
+      "img": "https://salesblink.io/blog/wp-content/uploads/2022/08/sales-outreach-strategy-how-to-improve-it-to-proper-sales-salesblink.webp",
+      "title": "Sales Outreach Strategy – How to Build One To Propel Sales?",
+      "content": " Irure est consequat velit nisi. Ad aliquip eiusmod enim tempor non duis officia veniam et sit elit laborum. Adipisicing ipsum aute minim non mollit elit pariatur eiusmod pariatur consequat nulla ipsum in. Cillum irure ad duis proident elit cupidatat fugiat est consectetur. Et cillum proident cupidatat et id ullamco mollit. Eu quis ipsum nostrud commodo tempor dolor officia est officia eiusmod do. Esse ut anim ipsum ad mollit labore sint non consequat cillum esse eiusmod est eiusmod. "
+    },
+    {
+      "id": 3,
+      "img": "https://salesblink.io/blog/wp-content/uploads/2022/08/13-best-sales-forecasting-tools-that-predict-revenue-salesblink.webp",
+      "title": "13 Best Sales Forecasting Tools That Predict Revenue",
+      "content": " Cupidatat elit cupidatat nisi officia enim aute. Deserunt culpa dolore sunt incididunt aliquip labore excepteur elit et cupidatat nulla voluptate cillum ea. Culpa ex ullamco incididunt proident dolor minim velit occaecat irure cupidatat eiusmod. Aliquip enim consectetur amet elit eu anim et amet ut sit quis magna. Tempor do mollit incididunt ex. Cillum minim ipsum culpa cillum qui tempor consectetur eiusmod qui non minim ut do. Lorem fugiat ipsum ad voluptate ipsum consequat commodo pariatur ipsum. "
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "some comment",
+      "name": "Udit Tyagi",
+      "unique": "3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
